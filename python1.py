@@ -1,3 +1,4 @@
+#lab_assingment_2
 class Employee:
     def _init_(self, employee_id, name, age, salary):
         self.employee_id = employee_id
